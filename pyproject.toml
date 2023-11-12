@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "刷题"
+version = "0.4.0"
+description = ""
+authors = ["二阶堂真红<1624467507@qq.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+PyQt5 = "^5.15.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

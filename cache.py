@@ -1,0 +1,12 @@
+question = []
+single = []
+multi = []
+judge = []
+wrong = []
+close = 0
+csv_adr = [0]
+csv_current = 0
+font_size = 1
+simuNum = [0, 0, 0]  # 单选 多选 判断
+singleNum = [0]
+mention = 0
